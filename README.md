@@ -1,2 +1,2 @@
 # Alarm-Clock
-Alarm Clock in Visual Studio (.Net Framework - C#)
+Alarm Clock in Visual Studio (.Net Framework - C#). Created for my studies.
